@@ -1,2 +1,1 @@
-# MudClick
-Python AutoClicker w/ pygame
+temp
